@@ -1,0 +1,42 @@
+/* *{
+    color: blueviolet;
+} */
+
+/* tag name */
+body {
+    background: #eee;
+}
+
+/* Class */
+.card {
+    padding: 10px;
+    background: white;
+    margin-bottom: 10px;
+}
+
+.card p{
+    font-size: 14px;
+
+}
+
+.html {
+    background: #913d19;
+    color: white;
+}
+
+.css{
+    background: #2965f1;
+    color: white;
+}
+
+
+/* Id */
+#header {
+    background: #ddd;
+    padding: 10px;
+
+}
+
+#header, .card p{
+    margin-bottom: 10px;
+}

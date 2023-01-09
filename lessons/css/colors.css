@@ -1,0 +1,20 @@
+.color-1{
+    color: DodgerBlue;
+}
+
+.color-2{
+    color: #00ff00;
+}
+
+.color-3{
+    color: #eee;
+}
+
+.color-4{
+    color: rgb(0,150,0);
+    /* opacity: 0.2; */
+}
+
+.color-5{
+    color: rgba(150,0,0,0.9);
+}
