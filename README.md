@@ -1,3 +1,3 @@
 # Мое резюме
 ## Результат 
-[Результат уроков по html](https://nikovladimirov.github.io/resume/)
+[Итоговое резюме](https://nikovladimirov.github.io/resume/)
