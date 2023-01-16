@@ -92,19 +92,19 @@ a:active{
 }
 
 .bg-yellow{
-    background: #ffff0050;
+    background: rgba(255,255,00,0.5);
 }
 .bg-yellow2{
-    background: #79ff6750;
+    background: rgba(100,255,80,0.5);
 }
 
 
 .bg-red{
-    background: #ff800050;
+    background: rgba(255,80,0,0.5);
 }
 
 .bg-green{
-    background: #33ff9950;
+    background: rgba(30,255,120,0.5);
 }
 
 .list{
